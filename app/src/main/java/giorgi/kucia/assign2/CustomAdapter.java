@@ -23,6 +23,7 @@ public class CustomAdapter extends BaseAdapter{
         context = mainActivity;
         imageId = prgmImages;
         inflater = (LayoutInflater) context.getSystemService(context.LAYOUT_INFLATER_SERVICE);
+
     }
 
     @Override
